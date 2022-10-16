@@ -3,4 +3,7 @@
     <string name="title_home">Me</string>
     <string name="title_dashboard">My Family</string>
     <string name="title_notifications">My Friends</string>
+    <string name="me">Me</string>
+    <string name="my_family">My Family</string>
+    <string name="my_friends">My Friends</string>
 </resources>
