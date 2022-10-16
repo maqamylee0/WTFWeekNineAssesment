@@ -1,3 +1,3 @@
 # WTFWeekNineAssesment
 
-![Screens](https://github.com/maqamylee0/SCAMP-C6-Assessment/blob/master/Mokoto%20Glitch%201.png)
+![Screens](https://github.com/maqamylee0/WTFWeekNineAssesment/blob/master/bottom_navigation.png)
